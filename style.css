@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(135, 243, 243);
+}
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  color: rgb(218, 112, 36);
+}
+.main-sec {
+  margin: 2rem auto;
+  padding: 2rem;
+  width: 60%;
+  border: 0.1rem solid rgb(9, 9, 9);
+  border-radius: 4px;
+}
